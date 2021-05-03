@@ -165,3 +165,4 @@ sudo service nginx restart
 Và đó là nó! Đến đây bạn đã cài đặt Django và làm việc với PostgreSQL và ứng dụng của bạn có thể truy cập web với NGINX cung cấp nội dung tĩnh và Gunicorn đóng role là server ứng dụng của bạn. Nếu có thắc mắc hay cần tư vấn thêm, hãy để lại trong phần comment .
 
 
+https://www.mdeditor.tw/pl/pR6U
