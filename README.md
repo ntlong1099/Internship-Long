@@ -166,3 +166,5 @@ Và đó là nó! Đến đây bạn đã cài đặt Django và làm việc v�
 
 
 https://www.mdeditor.tw/pl/pR6U
+
+https://github.com/ntlong1099/Internship-Long/blob/main/68747470733a2f2f692e696d6775722e636f6d2f735a5a674577712e6a7067.jfif
